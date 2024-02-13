@@ -1,5 +1,7 @@
 # Tasky-application
 It is a task application using Javascript and bootstrap
+![image](https://github.com/MangleshKumar1/Tasky-application/assets/97977847/45d51df6-e24d-4825-be9a-80fc025d8271)
+
 
 # Add information of task
 ![image](https://github.com/MangleshKumar1/Tasky-application/assets/97977847/9df200b2-113a-4f5b-bbe1-87da220aca4c)
